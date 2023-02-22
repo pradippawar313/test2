@@ -1,0 +1,7 @@
+{
+  "srvcId": "mod-calendar-2.5.0-SNAPSHOT",
+  "nodeId": "localhost",
+  "descriptor": {
+    "exec": "java -Dserver.port=%p -jar ../mod-calendar/target/mod-calendar-2.5.0-SNAPSHOT.jar"
+  }
+}
